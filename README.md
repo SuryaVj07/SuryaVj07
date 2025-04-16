@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SuryaVj07
 - 👀 I’m interested in Data Analyst and Scientist
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
